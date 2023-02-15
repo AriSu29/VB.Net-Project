@@ -53,9 +53,9 @@ Partial Class Form1
         Me.LabelWelcome.Font = New System.Drawing.Font("Segoe UI Variable Display", 28.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point)
         Me.LabelWelcome.Location = New System.Drawing.Point(199, 34)
         Me.LabelWelcome.Name = "LabelWelcome"
-        Me.LabelWelcome.Size = New System.Drawing.Size(334, 74)
+        Me.LabelWelcome.Size = New System.Drawing.Size(306, 74)
         Me.LabelWelcome.TabIndex = 2
-        Me.LabelWelcome.Text = "WELCOME, "
+        Me.LabelWelcome.Text = "WELCOME"
         '
         'Label2
         '
